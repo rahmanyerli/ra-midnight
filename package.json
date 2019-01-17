@@ -1,8 +1,8 @@
 {
 	"name": "ra-midnight",
 	"displayName": "Ra Midnight",
-	"description": "",
-	"version": "1.0.0",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
