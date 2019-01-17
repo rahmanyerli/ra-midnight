@@ -1,13 +1,28 @@
-# README
-## This is the README for your extension "ra-midnight"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Ra Midnight theme for VSCode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+**Here is the best theme for your eye care!**
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+[GitHub Repository](https://github.com/rahmanyerli/ra-midnight)
 
-**Enjoy!**
+> HTML
+
+![Screen Shot-III](./images/html.png)
+
+---
+
+> JS
+
+![Screen Shot-II](./images/js.png)
+
+---
+
+> CSS
+
+![Screen Shot-III](./images/css.png)
+
+---
+
+> JSON
+
+![Screen Shot-I](./images/json.png)
+
