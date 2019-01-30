@@ -28,12 +28,22 @@
 		"url": "https://github.com/rahmanyerli/ra-midnight"
 	},
 	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#303030",
+		"theme": "dark"
+	},
 	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"ra",
+		"ra midnight theme",
 		"ra midnight",
 		"ramidnight",
 		"ra-midnight",
-		"ra midnight theme",
-		"theme",
-		"ra"
+		"ra midnight theme"
 	]
 }
