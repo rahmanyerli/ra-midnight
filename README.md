@@ -4,25 +4,5 @@
 
 [GitHub Repository](https://github.com/rahmanyerli/ra-midnight)
 
-> HTML
-
-![Screen Shot-III](./images/html.png)
-
----
-
-> JS
-
-![Screen Shot-II](./images/js.png)
-
----
-
-> CSS
-
-![Screen Shot-III](./images/css.png)
-
----
-
-> JSON
-
-![Screen Shot-I](./images/json.png)
+![Screen Shot-III](./images/code.png)
 
