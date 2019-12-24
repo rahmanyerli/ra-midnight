@@ -256,7 +256,7 @@
 		//"textCodeBlock.background": "#0a0a0a66",
 		//"textPreformat.foreground": "#d7ba7d",
 		//"textSeparator.foreground": "#ffffff2e",
-		//"titleBar.activeBackground": "#3c3c3c",
+		"titleBar.activeBackground": "#202830",
 		//"titleBar.activeForeground": "#cccccc",
 		//"titleBar.inactiveBackground": "#3c3c3c99",
 		//"titleBar.inactiveForeground": "#cccccc99",
